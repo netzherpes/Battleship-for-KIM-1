@@ -1,7 +1,9 @@
 # Battleship-for-KIM-1
 
 (c) 1978 Roland Kushnier (orig)
+
 (c) 1979 Jody Nelis (bugfix)
+
 You have 20 shots to detect a 3x1 ship on a 8x8 grid.
 The ship can be aligned horizontal, vertical or 
 diagonal.

@@ -18,4 +18,4 @@ will jump to 01.
 If you hit all 3 coordinates of the ship, 
 you won, the display will show "dEAd" and the number of 
 shots used.
-[1]: 
+[1]:https://github.com/netzherpes/Battleship-for-KIM-1/blob/main/Battleship.jpg
